@@ -18,7 +18,7 @@
   },
   "homepage": "https://github.com/octodemo/camel-connect#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "jasmine": "^3.4.0"
   }
 }
